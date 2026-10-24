@@ -1,21 +1,32 @@
-"""Radar Mini: يجلب عناوين الأخبار من مصادر RSS ويحفظ الجديد في ملف radar.md"""
+"""Radar Mini v2: عناوين تهم المطورين (ذكاء اصطناعي، مفتوح المصدر، GitHub)."""
+import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 FEEDS = {
-    "Hacker News (AI)": "https://hnrss.org/newest?q=AI",
+    "Show HN (مشاريع جديدة)": "https://hnrss.org/show?q=AI",
+    "Hugging Face Blog": "https://huggingface.co/blog/feed.xml",
+    "GitHub Changelog": "https://github.blog/changelog/feed/",
+    "GitHub Blog": "https://github.blog/feed/",
     "Ars Technica": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-    "The Verge": "https://www.theverge.com/rss/index.xml",
 }
 
-KEYWORDS = ["ai", "llm", "model", "openai", "anthropic", "gpt", "agent", "robot"]
-MAX_PER_FEED = 10
+KEYWORDS = [
+    "ai", "llm", "agent", "agents", "open source", "open-source", "model",
+    "copilot", "claude", "gpt", "gemini", "llama", "mcp", "rag",
+    "python", "coding", "developer", "api", "security", "release",
+]
+PATTERN = re.compile(
+    r"\b(" + "|".join(re.escape(k) for k in KEYWORDS) + r")\b", re.IGNORECASE
+)
+
+MAX_PER_FEED = 8
 OUTPUT = "radar.md"
 
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "radar-mini/0.1"})
+    req = urllib.request.Request(url, headers={"User-Agent": "radar-mini/0.2"})
     with urllib.request.urlopen(req, timeout=15) as resp:
         return resp.read()
 
@@ -39,10 +50,7 @@ def parse(xml_bytes):
 
 
 def matches(title):
-    if not KEYWORDS:
-        return True
-    low = title.lower()
-    return any(k in low for k in KEYWORDS)
+    return bool(PATTERN.search(title))
 
 
 def main():
