@@ -12,7 +12,7 @@ FEEDS = {
     "Ars Technica": "https://feeds.arstechnica.com/arstechnica/technology-lab",
 }
 
-KEYWORDS = [
+KEYWORDS = ["rust"
     "ai", "llm", "agent", "agents", "open source", "open-source", "model",
     "copilot", "claude", "gpt", "gemini", "llama", "mcp", "rag",
     "python", "coding", "developer", "api", "security", "release",
