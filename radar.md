@@ -1,14 +1,12 @@
-# Radar Mini — 2026-10-24 23:12 UTC
+# Radar Mini — 2026-10-24 23:25 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Narro – Read web pages and Kindle books using local AI voices](https://github.com/swrdfish/narro)
-- [Show HN: AI Trend Video – Put your photo into viral AI video templates](https://aitrendvideo.net)
 - [Show HN: Loböle, open-source parametric CAD that AI agents can drive](https://github.com/eliasaronson/lobole)
 - [Show HN: AI agent swarms test if new CVEs are exploitable in your env](https://app.enclave.ai/threat-feed)
 - [Show HN: TenseMem – deterministic memory for AI agents](https://github.com/tensemem/tensemem)
-- [Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)](https://github.com/Aldyernesto/shotstash)
-- [Show HN: Mantid, a Mac app that lets non-ML people train their own AI models](https://mantid.dev)
-- [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector)
+- [Show HN: Let your AI agent put things on a screen](https://console.usetd.com/)
+- [Show HN: Latch – Make any website usable by AI agents in one line (WebMCP)](https://latch.tools/)
+- [Show HN: Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm](https://github.com/rla-labs/argus)
 
 ## Hugging Face Blog
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
@@ -41,7 +39,6 @@
 ## Ars Technica
 - [PHP warns it plans to release 2 emergency patches imminently](https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/)
 - [Fridge hack costing millions and sparking fires stemmed from poor security](https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/)
-- [Anthropic warns small AI models could self-replicate through IoT devices](https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/)
 - [OpenAI agents tried to hack Wikipedia tools and flooded it with traffic](https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/)
 - [MCP for agent-to-agent comms may be the riskiest protocol you've never heard of](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/)
 - [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/)
