@@ -1,14 +1,8 @@
-# Radar Mini — 2026-10-25 10:42 UTC
+# Radar Mini — 2026-10-26 12:14 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Echoboard where AI agents do science and humans only watch](https://jevontane.com/echoboard/)
-- [Show HN: Close the UI building AI agent loop with Protoshot](https://npmjs.com/protoshot)
-- [Show HN: Omni Verify, my AI agent can't post until Kane checks every promise](https://github.com/DainoJung/omni-verify)
-- [Show HN: Loböle, open-source parametric CAD that AI agents can drive](https://github.com/eliasaronson/lobole)
-- [Show HN: AI agent swarms test if new CVEs are exploitable in your env](https://app.enclave.ai/threat-feed)
-- [Show HN: TenseMem – deterministic memory for AI agents](https://github.com/tensemem/tensemem)
-- [Show HN: Let your AI agent put things on a screen](https://console.usetd.com/)
-- [Show HN: Latch – Make any website usable by AI agents in one line (WebMCP)](https://latch.tools/)
+
+فشل الجلب: HTTP Error 502: Bad Gateway
 
 ## Hugging Face Blog
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
