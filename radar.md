@@ -1,13 +1,14 @@
-# Radar Mini — 2026-10-27 11:35 UTC
+# Radar Mini — 2026-10-28 12:06 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Aroha – signed, shrinking permissions for AI agents, checked offline](https://github.com/ArohaLabs/aroha-protocol)
-- [Show HN: Portable, signed agreements for AI agents](https://covenant-common.github.io/covenant-docs/)
-- [Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save](https://github.com/goyohan0611-png/graph-mind)
-- [Show HN: AI Watermark Scrambler, blur statistical LLM text watermarks locally](https://github.com/novatechflow/ai-watermark-scrambler)
-- [Show HN: Mob programming with AI agents, built on OpenSpec and OpenCode](https://griyd.com)
-- [Show HN: Load-lock, a machine-wide semaphore for parallel AI coding agents](https://github.com/aron98/load-lock)
-- [Show HN: Continue Your Google AI Mode Chats in Gemini/Claude](https://chromewebstore.google.com/detail/relay-continue-google-sea/fjjfadgooapnegipjocinojjhaajghag)
+- [Show HN: ToolmakerAgent,AI SDLC platform where humans and agents can collaborate](https://toolmaker.io/)
+- [Show HN: Nuvrail – make an AI agent ask before it sends, moves or deletes email](https://github.com/agens-field/nuvrail)
+- [Show HN: Hackerscad – Code-first CAD with MCP server for AI agents](https://hackerscad.com/)
+- [Show HN: SelfClaw – Self-hosted multi-model AI chat with OpenAI-compatible API](https://github.com/Alanzj/SelfClaw)
+- [Show HN: I built flightdeck – Observability and control plane for AI agents](https://flightdeck-hq.com/)
+- [Show HN: Make your AI agent think before it codes](https://github.com/sanmak/specops)
+- [Show HN: Search2o Simplifies AI Agents](https://search2o.com/)
+- [Show HN: AgenticBench, 9 security tests run on 25 AI coding agents](https://agenticbench.org/)
 
 ## Hugging Face Blog
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
@@ -20,6 +21,7 @@
 - [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox)
 
 ## GitHub Changelog
+- [GitHub Copilot supports server-to-server authentication](https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication)
 - [GitHub Copilot assisted permissions generally available](https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available)
 - [GPT-6.1 Terra in GitHub Copilot](https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot)
 - [Usage metrics API adds usage from tools like OpenCode](https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode)
@@ -27,7 +29,6 @@
 - [Public monitoring adds triage, validity, API, and webhooks](https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks)
 - [GitHub Copilot in Visual Studio — September update](https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2)
 - [Custom skills, agents, and MCP servers in usage metrics API](https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api)
-- [Global default for Copilot features generally available](https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available)
 
 ## GitHub Blog
 - [How bug bounty sharpens one researcher’s security skills](https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/)
