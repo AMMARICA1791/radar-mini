@@ -1,14 +1,14 @@
-# Radar Mini — 2026-10-28 12:06 UTC
+# Radar Mini — 2026-10-29 12:17 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: ToolmakerAgent,AI SDLC platform where humans and agents can collaborate](https://toolmaker.io/)
-- [Show HN: Nuvrail – make an AI agent ask before it sends, moves or deletes email](https://github.com/agens-field/nuvrail)
-- [Show HN: Hackerscad – Code-first CAD with MCP server for AI agents](https://hackerscad.com/)
-- [Show HN: SelfClaw – Self-hosted multi-model AI chat with OpenAI-compatible API](https://github.com/Alanzj/SelfClaw)
-- [Show HN: I built flightdeck – Observability and control plane for AI agents](https://flightdeck-hq.com/)
-- [Show HN: Make your AI agent think before it codes](https://github.com/sanmak/specops)
-- [Show HN: Search2o Simplifies AI Agents](https://search2o.com/)
-- [Show HN: AgenticBench, 9 security tests run on 25 AI coding agents](https://agenticbench.org/)
+- [Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)](https://supermhel.github.io/fengarde/)
+- [Show HN: Open-source AI workspace with shared procedural memory](https://github.com/TheWariend/CleanSlate)
+- [Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp](https://github.com/ChrystianSchutz/ThreadShelf)
+- [Show HN: Preview video timelines live in the browser as AI agents edit them](https://github.com/tellers-ai/skills)
+- [Show HN: X402 integrations for an AI-agent data API, checked in a clean room](https://www.blockchainiq.co/blog/x402-integrations-from-the-build-bounty)
+- [Show HN: WOML – A markup language for building workflows and AI agents](https://github.com/dali-benothmen/woml)
+- [Show HN: Watch AI agents build Pullboard, live](https://pullboard.dev/live/)
+- [Show HN: Coding agent spots your AI practices and the ones you're missing](https://app.userrank.ai/)
 
 ## Hugging Face Blog
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
@@ -21,23 +21,22 @@
 - [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox)
 
 ## GitHub Changelog
-- [GitHub Copilot supports server-to-server authentication](https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication)
-- [GitHub Copilot assisted permissions generally available](https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available)
-- [GPT-6.1 Terra in GitHub Copilot](https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot)
-- [Usage metrics API adds usage from tools like OpenCode](https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode)
-- [Turn notifications into code with GitHub Copilot in Teams](https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams)
-- [Public monitoring adds triage, validity, API, and webhooks](https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks)
-- [GitHub Copilot in Visual Studio — September update](https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2)
-- [Custom skills, agents, and MCP servers in usage metrics API](https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api)
+- [Route and orchestrate models with GitHub Copilot Fusion](https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion)
+- [GitHub Copilot app, Universe releases](https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases)
+- [GitHub Enterprise now includes access to GitHub Copilot](https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot)
+- [Security extension for the GitHub Copilot app](https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app)
+- [Build shared workflows for your team with Copilot Automations](https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations)
+- [GitHub Copilot in VS Code, Universe releases](https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases)
+- [Generate and edit images directly in Copilot](https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot)
+- [GitHub Copilot Fusion now supports selection of local models](https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models)
 
 ## GitHub Blog
+- [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)
 - [How bug bounty sharpens one researcher’s security skills](https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/)
 - [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/)
 - [How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/)
 - [The next developer interface is ambient intelligence](https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/)
-- [GitHub’s model for secret detection: Finding more secrets with less noise](https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/)
-- [GitHub Copilot app for Beginners: How to teach Copilot about your codebase](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/)
 
 ## Ars Technica
 - [PHP warns it plans to release 2 emergency patches imminently](https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/)
