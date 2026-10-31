@@ -1,14 +1,14 @@
-# Radar Mini — 2026-10-30 12:07 UTC
+# Radar Mini — 2026-10-31 11:40 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Send21 – Crypto pay links an AI agent can create but can't spend](https://send21.io/demo)
-- [Show HN: AI agents trade privately on BitcoinZ, with proof of delivery](https://github.com/ZKStamp/AgentWallet)
-- [Show HN: Breatic – Collaborative canvases and documents with an AI agent](https://github.com/orime-org/breatic)
-- [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
-- [Show HN: Sheetgraph, AI agents can understand complex spreadsheets](https://github.com/asharma327/sheetgraph)
-- [Show HN: I built a tamper-evident flight recorder for AI agents](https://github.com/mnestiq/mnestiq)
-- [Show HN: SpaceApp – Run several AI coding CLIs side by side, self-hosted](https://github.com/oll4com/spaceapp)
-- [Show HN: Crewd NPM-style package manager for AI coding agents and skills](https://news.ycombinator.com/item?id=50288521)
+- [Show HN: Archwhere – work alongside AI coding agents on an architecture map](https://github.com/tapaskar/archwhere)
+- [Show HN: Governor, a firewall for AI agent spend and tool calls](https://bsvkey-governor-demo.fly.dev/)
+- [Show HN: mobile-agent – Let AI agents control Android and iOS devices](https://github.com/gesposito/mobile-agent)
+- [Show HN: NKTg AI – An LLM that decodes text before generating](https://nktg.org/)
+- [Show HN: Omneum – Local, text-blind context control plane for AI agents](https://github.com/cole-h06/omneum)
+- [Show HN: AI agent needs process to build a commercial application](https://nomorehappypath.com/)
+- [Show HN: Opencommerce – OpenRouter for commerce, one API for AI agents to buy](https://opencommerce.sh)
+- [Show HN: Beolis – Manage your coding AI agents](https://beolis.com)
 
 ## Hugging Face Blog
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
@@ -43,4 +43,3 @@
 - [Fridge hack costing millions and sparking fires stemmed from poor security](https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/)
 - [OpenAI agents tried to hack Wikipedia tools and flooded it with traffic](https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/)
 - [MCP for agent-to-agent comms may be the riskiest protocol you've never heard of](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/)
-- [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/)
