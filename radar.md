@@ -1,14 +1,14 @@
-# Radar Mini — 2026-10-31 11:40 UTC
+# Radar Mini — 2026-11-01 12:39 UTC
 
 ## Show HN (مشاريع جديدة)
+- [Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety](https://github.com/matricphase-dot/aiops)
+- [Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents](https://github.com/shashtag-ventures/linkedin-ops)
+- [Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry](https://castov.com)
+- [Show HN: Publishub. An AI copilot for video creators and editors.](https://www.getpublishub.com)
+- [Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents](https://github.com/Annora998/inboxwall)
 - [Show HN: Archwhere – work alongside AI coding agents on an architecture map](https://github.com/tapaskar/archwhere)
 - [Show HN: Governor, a firewall for AI agent spend and tool calls](https://bsvkey-governor-demo.fly.dev/)
 - [Show HN: mobile-agent – Let AI agents control Android and iOS devices](https://github.com/gesposito/mobile-agent)
-- [Show HN: NKTg AI – An LLM that decodes text before generating](https://nktg.org/)
-- [Show HN: Omneum – Local, text-blind context control plane for AI agents](https://github.com/cole-h06/omneum)
-- [Show HN: AI agent needs process to build a commercial application](https://nomorehappypath.com/)
-- [Show HN: Opencommerce – OpenRouter for commerce, one API for AI agents to buy](https://opencommerce.sh)
-- [Show HN: Beolis – Manage your coding AI agents](https://beolis.com)
 
 ## Hugging Face Blog
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
