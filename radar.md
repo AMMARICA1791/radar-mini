@@ -1,14 +1,14 @@
-# Radar Mini — 2026-11-01 12:39 UTC
+# Radar Mini — 2026-11-02 14:44 UTC
 
 ## Show HN (مشاريع جديدة)
+- [Show HN: Maat – AI agents that can diagnose Ubuntu but can't change it](https://github.com/bolesawny7/maat)
+- [Show HN: AgentTM – A time-travel debugger for AI coding agents built in Go](https://github.com/Jyotishmoy12/AgentTM)
+- [Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator](https://github.com/shipvo/shipvo)
+- [Show HN: Arken – cryptographic identity for AI agents calling MCP servers/APIs](https://github.com/arkenforge/arken-core)
+- [Show HN: Skep – live cross-device sessions for AI coding agents](https://skepagent.com/)
+- [Show HN: Better Together – AI agents team up against spam calls and texts](https://better-together.fun/)
+- [Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents](https://www.anonce.io/)
 - [Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety](https://github.com/matricphase-dot/aiops)
-- [Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents](https://github.com/shashtag-ventures/linkedin-ops)
-- [Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry](https://castov.com)
-- [Show HN: Publishub. An AI copilot for video creators and editors.](https://www.getpublishub.com)
-- [Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents](https://github.com/Annora998/inboxwall)
-- [Show HN: Archwhere – work alongside AI coding agents on an architecture map](https://github.com/tapaskar/archwhere)
-- [Show HN: Governor, a firewall for AI agent spend and tool calls](https://bsvkey-governor-demo.fly.dev/)
-- [Show HN: mobile-agent – Let AI agents control Android and iOS devices](https://github.com/gesposito/mobile-agent)
 
 ## Hugging Face Blog
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
