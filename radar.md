@@ -1,16 +1,17 @@
-# Radar Mini — 2026-11-02 14:44 UTC
+# Radar Mini — 2026-11-03 13:37 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Maat – AI agents that can diagnose Ubuntu but can't change it](https://github.com/bolesawny7/maat)
-- [Show HN: AgentTM – A time-travel debugger for AI coding agents built in Go](https://github.com/Jyotishmoy12/AgentTM)
-- [Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator](https://github.com/shipvo/shipvo)
-- [Show HN: Arken – cryptographic identity for AI agents calling MCP servers/APIs](https://github.com/arkenforge/arken-core)
-- [Show HN: Skep – live cross-device sessions for AI coding agents](https://skepagent.com/)
-- [Show HN: Better Together – AI agents team up against spam calls and texts](https://better-together.fun/)
-- [Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents](https://www.anonce.io/)
-- [Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety](https://github.com/matricphase-dot/aiops)
+- [Show HN: Duckity – Abuse protection for the AI agent era](https://duckity.com/)
+- [Show HN: A tool to optimize AI model cost without benchmark score trade-offs](https://jeff-kline.github.io/posts/same-ai-results-for-less/index.html)
+- [Show HN: Try an AI agent wallet in the browser – buy a stamp from a bot](https://proof.zketernity.app/stamps/try.html)
+- [Show HN: Trifecta Checker – a pre-flight safety check for AI agents](https://meta-global-ai-hackathon-trifecta-c.vercel.app/)
+- [Show HN: CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano](https://www.predatorray.me/CheapGPT/)
+- [Show HN: PhoneUse – Phones for AI Agents](https://www.phoneuse.com/)
+- [Show HN: Mago, an open source AI video studio, runs locally with Comfy](https://github.com/MagoStudio/MagoStudio)
+- [Show HN: A persistent Chrome cloud browser for AI agents](https://cloudbrowser.tv)
 
 ## Hugging Face Blog
+- [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
 - [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
 - [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
@@ -18,17 +19,15 @@
 - [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](https://huggingface.co/blog/meta-muse-spark-open)
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
 - [The model that didn't exist, so you made it yourself](https://huggingface.co/blog/building-with-ml-intern)
-- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox)
 
 ## GitHub Changelog
+- [Security risk assessments include repository protection status](https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status)
 - [Webhook IP ranges added to the Meta API](https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api)
 - [Route and orchestrate models with GitHub Copilot Fusion](https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion)
 - [GitHub Copilot app, Universe releases](https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases)
 - [GitHub Enterprise now includes access to GitHub Copilot](https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot)
 - [Security extension for the GitHub Copilot app](https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app)
 - [Build shared workflows for your team with Copilot Automations](https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations)
-- [GitHub Copilot in VS Code, Universe releases](https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases)
-- [Generate and edit images directly in Copilot](https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot)
 
 ## GitHub Blog
 - [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)
