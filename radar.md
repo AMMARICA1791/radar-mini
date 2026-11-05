@@ -1,14 +1,14 @@
-# Radar Mini — 2026-11-04 13:46 UTC
+# Radar Mini — 2026-11-05 13:58 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Shield KYA – Open-source audit trail and gate for AI agent tool calls](https://github.com/The-Pixel-Boys/shield-kya)
-- [Show HN: Umbra – An AI agent that uses Android apps while you use your phone](https://github.com/chengmatt416/umbra)
-- [Show HN: Meteosource MCP server, weather data for AI assistants](https://mcp.meteosource.com/)
-- [Show HN: Modelpeers – a changelog for the AI models and agents you use](https://modelpeers.com)
-- [Show HN: Export your Character.AI chats in minutes – open-source, runs locally](https://github.com/anima-universe/character-ai-chat-exporter)
-- [Show HN: Mallard: Git for the age of AI agents](https://mallard-ai.com/home)
-- [Show HN: Traccia – Control what AI agents can do](https://github.com/traccia-ai/traccia-py)
-- [Show HN: AI Model Token Cost and Context Window Estimator](https://ai-token-estimator.pages.dev/)
+- [Show HN: Ergon - build AI agents in code or on a canvas that generates Python](https://github.com/shipitamit/ergon)
+- [Show HN: Mailbox.bot – A real street address for AI agents](https://mailbox.bot)
+- [Show HN: Cinnamon – safer AI agent for household, private and shared context](https://getcinnamon.ai/)
+- [Show HN: BrowserForge – AI agents use your real browser, you approve the clicks](https://github.com/zoghlamimostafa/BrowserForge-MCP)
+- [Show HN: Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s](https://github.com/akustikrausch/amigent)
+- [Show HN: Jinna, Company Brain& AI agents that run a one-person business with you](https://jinna.ai/)
+- [Show HN: Atlas – Let AI agents use your Mac without taking over your screen](https://atlas.insanearts.io/)
+- [Show HN: Renor – one memory for all your AI agents](https://github.com/renorai/renor-engine)
 
 ## Hugging Face Blog
 - [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
@@ -21,6 +21,7 @@
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
 
 ## GitHub Changelog
+- [GitHub Copilot is now available in Xcode’s coding assistant](https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant)
 - [BYOK and enterprise custom models in the Copilot usage API](https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api)
 - [Dependabot version updates support Agent Package Manager](https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager)
 - [Look up a resource’s cost center with the GitHub REST API](https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api)
@@ -28,7 +29,6 @@
 - [CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions](https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions)
 - [Dependabot now supports Python 3.15](https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15)
 - [Security risk assessments include repository protection status](https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status)
-- [Webhook IP ranges added to the Meta API](https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api)
 
 ## GitHub Blog
 - [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)
@@ -41,4 +41,3 @@
 ## Ars Technica
 - [PHP warns it plans to release 2 emergency patches imminently](https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/)
 - [Fridge hack costing millions and sparking fires stemmed from poor security](https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/)
-- [OpenAI agents tried to hack Wikipedia tools and flooded it with traffic](https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/)
