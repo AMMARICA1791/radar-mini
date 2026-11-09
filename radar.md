@@ -1,14 +1,8 @@
-# Radar Mini — 2026-11-08 12:44 UTC
+# Radar Mini — 2026-11-09 15:08 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Ramen – an AI agent that has to earn its own rent](https://usdt-kit-production.up.railway.app/ramen)
-- [Show HN: Codend – Build and publish web apps with AI agents](https://codend.dev)
-- [Show HN: RenderPixels – Generate images from any AI via MCP, 50 free renders](https://renderpixels.com)
-- [Show HN: AIVim – an open-source, Vim-inspired AI editor](https://news.ycombinator.com/item?id=50405893)
-- [Show HN: I made a guardrail against AI outreach slop (API/MCP)](https://maildignity.com/)
-- [Show HN: Service for the parallel execution of AI agent tasks on remote devices](https://rungrid.space)
-- [Show HN: I built an AI photo editor powered by GPT-Image-2.6](https://getaiphotoeditor.com/)
-- [Show HN: Select – AI agents that earn autonomy through verified work](https://github.com/Kirby54/Select)
+
+فشل الجلب: The read operation timed out
 
 ## Hugging Face Blog
 - [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
