@@ -1,8 +1,14 @@
-# Radar Mini — 2026-11-09 15:08 UTC
+# Radar Mini — 2026-11-10 14:19 UTC
 
 ## Show HN (مشاريع جديدة)
-
-فشل الجلب: The read operation timed out
+- [Show HN: Padwan AI, an LLM Client for Python with HTTP/2 and HTTP/3](https://polarsen-io.github.io/padwan-ai/)
+- [Show HN: pvewarden – let an AI agent patch Proxmox VMs without giving it a shell](https://github.com/matousfiser/pvewarden)
+- [Show HN: VoxaDub – Open-source AI video dubbing with speaker-aware voices](https://github.com/kadirb4rut/voxadub)
+- [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh)
+- [Show HN: Chatty – Open-source AI support engine with WooCommerce sync](https://github.com/PersonaliAI/chatty)
+- [Show HN: ZTHR – what replaces code review when AI agents write all the code](https://zthr.ai/)
+- [Show HN: Markolis – Market microstructure and MCP server for AI agents](https://www.markolis.com)
+- [Show HN: We Gave AI Coding Agents Production Memory](https://usecodela.com/)
 
 ## Hugging Face Blog
 - [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
@@ -15,12 +21,12 @@
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
 
 ## GitHub Changelog
+- [Claude Fable 5.2 in GitHub Copilot](https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot)
 - [Copilot code review: API management and review overview updates](https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates)
 - [Copilot impact dashboard adds chat and VS Code agent usage](https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage)
 - [GitHub Copilot weekly releases — November 2](https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2)
 - [Usage metrics API adds code review details and addressed rate](https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate)
 - [Usage metrics API flags telemetry and version gaps](https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps)
-- [GitHub Copilot is now available in Xcode’s coding assistant](https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant)
 
 ## GitHub Blog
 - [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)
