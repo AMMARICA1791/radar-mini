@@ -1,14 +1,13 @@
-# Radar Mini — 2026-11-11 13:32 UTC
+# Radar Mini — 2026-11-12 14:36 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Editmamei – Giving AI agents access to desktop Photoshop and GIMP](https://github.com/editmamei/editmamei)
-- [Show HN: Komrad – an AI agent that does not work for you](https://komr.ad/)
-- [Show HN: Kodelyth ECC – 71 AI agents and MCP and 55% token cuts for Claude Code](https://ecc.kodelyth.com)
-- [Show HN: Agent Buddies – Swappable animated characters for AI agents](https://izr8809.github.io/agent-buddies/)
-- [Show HN: Halyard – Mac and iPhone app for AI agents in tmux, nothing to install](https://apps.apple.com/us/app/halyard-ai-agent-terminal/id6809046638)
-- [Show HN: Cinnamon AI – an agent for your household](https://getcinnamon.ai/)
-- [Show HN: AI agents that barter your stuff for things you want](https://barterpilot.com/)
-- [Show HN: Aisync, advisory file claims so two AI agents don't edit one repo](https://github.com/MaxonT/aisync)
+- [Show HN: Datatomcp – AI agents propose business definitions, a person approves](https://datatomcp.com/)
+- [Show HN: MudGym's WebAssembly browser playground for AI agents in MUD2](https://mudgym.kingrolo.com)
+- [Show HN: Closed,Mechanical Mould Design AI Agent](https://closed.sh)
+- [Show HN: Vibetime – see what you ship when coding with AI agents](https://github.com/iamnotstatic/vibetime)
+- [Show HN: Lynx – open-source fully-customizable AI workspace](https://github.com/yakkomajuri/lynx)
+- [Show HN: Version History for Your Synced Notes (AI Agent Safety)](https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents)
+- [Show HN: AI Spar – Let Claude, GPT, and Gemini Debate a Question](https://aispar.app/)
 
 ## Hugging Face Blog
 - [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
@@ -26,7 +25,6 @@
 - [Claude Fable 5.2 in GitHub Copilot](https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot)
 - [Copilot code review: API management and review overview updates](https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates)
 - [Copilot impact dashboard adds chat and VS Code agent usage](https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage)
-- [GitHub Copilot weekly releases — November 2](https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2)
 
 ## GitHub Blog
 - [Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/)
