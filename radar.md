@@ -1,16 +1,11 @@
-# Radar Mini — 2026-11-13 13:54 UTC
+# Radar Mini — 2026-11-14 12:57 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Practice coding with AI on real tickets](https://algocademy.com/ai-coding-practice/)
-- [Show HN: CloudHike – A backend your AI coding agent can set up over MCP](https://cloudhike.dev)
-- [Show HN: Zipzi – Open-source Live2D Editor alternative with AI-assisted editing](https://github.com/getzipzi/zipzi-2d)
-- [Show HN: Headwig - Run and test parallel AI agents without Git worktrees](https://harsh-kr-jha.github.io/headwig/)
-- [Show HN: LessonFolk – Learn AI from an AI tutor, through MCP (open source)](https://lessonfolk.com/?utm_source=hackernews&utm_medium=community&utm_campaign=show-hn)
-- [Show HN: Cinnamon AI – an agent for your family](https://getcinnamon.ai/)
-- [Show HN: Senku, an AI agent that can control your phone in background](https://www.heysenku.com/)
-- [Show HN: Datatomcp – AI agents propose business definitions, a person approves](https://datatomcp.com/)
+
+فشل الجلب: HTTP Error 502: Bad Gateway
 
 ## Hugging Face Blog
+- [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
 - [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
 - [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
 - [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
@@ -18,9 +13,11 @@
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
 - [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
 - [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
-- [Apertus 1.5 Release Notes](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)
 
 ## GitHub Changelog
+- [Upcoming deprecation of selected GitHub Copilot models in December](https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december)
+- [GitHub Enterprise Server support in the GitHub Copilot app](https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app)
+- [Gemini 4 Hydrogen in GitHub Copilot](https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot)
 - [Manage AI Scan for repositories using the REST API](https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api)
 - [GitHub App support for Enterprise Copilot seat management](https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management)
 - [Gemini 4 Carbon in GitHub Copilot](https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot)
