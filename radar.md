@@ -1,8 +1,8 @@
-# Radar Mini — 2026-11-14 12:57 UTC
+# Radar Mini — 2026-11-15 13:25 UTC
 
 ## Show HN (مشاريع جديدة)
 
-فشل الجلب: HTTP Error 502: Bad Gateway
+فشل الجلب: The read operation timed out
 
 ## Hugging Face Blog
 - [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
