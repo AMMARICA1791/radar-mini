@@ -1,8 +1,11 @@
-# Radar Mini — 2026-11-15 13:25 UTC
+# Radar Mini — 2026-11-16 14:45 UTC
 
 ## Show HN (مشاريع جديدة)
-
-فشل الجلب: The read operation timed out
+- [Show HN: Cinnamon AI – an agent I built for friends and family](https://getcinnamon.ai/)
+- [Show HN: A benchmark that diffs the whole database after an AI agent's task](https://github.com/shubhamjoshipromail-svg/software-world-model)
+- [Show HN: Attest – Test what AI agents do, not just what they say](https://attest-framework.github.io/)
+- [Show HN: Local AI Video Agent](https://www.wiyomi.com/)
+- [Show HN: Pizza – An event-driven AI agent, no while true](https://pizza.hertzbeat.com/)
 
 ## Hugging Face Blog
 - [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
