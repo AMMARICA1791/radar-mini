@@ -1,11 +1,14 @@
-# Radar Mini — 2026-11-16 14:45 UTC
+# Radar Mini — 2026-11-17 15:29 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Cinnamon AI – an agent I built for friends and family](https://getcinnamon.ai/)
-- [Show HN: A benchmark that diffs the whole database after an AI agent's task](https://github.com/shubhamjoshipromail-svg/software-world-model)
-- [Show HN: Attest – Test what AI agents do, not just what they say](https://attest-framework.github.io/)
-- [Show HN: Local AI Video Agent](https://www.wiyomi.com/)
-- [Show HN: Pizza – An event-driven AI agent, no while true](https://pizza.hertzbeat.com/)
+- [Show HN: Atli – MCP server that lets AI agents buy and install travel eSIMs](https://heyatli.com/mcp)
+- [Show HN: An MCP server for searching 71 real, sourced AI agent deployments](https://agentsinthewild.co/mcp-server)
+- [Show HN: Toolmaker Agent–Software project management for human and AI agent](https://toolmaker.io/)
+- [Show HN: AI Agent Infrastructure and Memory Compaction Specifications](https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure)
+- [Show HN: Woolly, a local mem0-compatible memory API for AI agents](https://usewoolly.com/)
+- [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)
+- [Show HN: Listodo – A to-do list with an AI agent for every task](https://github.com/debarshibasak/listodo)
+- [Show HN: Standard Support – a convention for AI agents to file support tickets](https://standardsupport.dev/)
 
 ## Hugging Face Blog
 - [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
@@ -18,12 +21,11 @@
 - [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
 
 ## GitHub Changelog
+- [GitHub Copilot weekly releases — November 9](https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9)
+- [GitHub Copilot models deprecated on November 16, 2026](https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026)
+- [Control where GitHub Copilot customizations come from](https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from)
 - [Upcoming deprecation of selected GitHub Copilot models in December](https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december)
 - [GitHub Enterprise Server support in the GitHub Copilot app](https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app)
-- [Gemini 4 Hydrogen in GitHub Copilot](https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot)
-- [Manage AI Scan for repositories using the REST API](https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api)
-- [GitHub App support for Enterprise Copilot seat management](https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management)
-- [Gemini 4 Carbon in GitHub Copilot](https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot)
 
 ## GitHub Blog
 - [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)
