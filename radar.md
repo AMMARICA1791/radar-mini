@@ -1,16 +1,16 @@
-# Radar Mini — 2026-11-17 15:29 UTC
+# Radar Mini — 2026-11-18 15:05 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Atli – MCP server that lets AI agents buy and install travel eSIMs](https://heyatli.com/mcp)
-- [Show HN: An MCP server for searching 71 real, sourced AI agent deployments](https://agentsinthewild.co/mcp-server)
-- [Show HN: Toolmaker Agent–Software project management for human and AI agent](https://toolmaker.io/)
-- [Show HN: AI Agent Infrastructure and Memory Compaction Specifications](https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure)
-- [Show HN: Woolly, a local mem0-compatible memory API for AI agents](https://usewoolly.com/)
-- [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)
-- [Show HN: Listodo – A to-do list with an AI agent for every task](https://github.com/debarshibasak/listodo)
-- [Show HN: Standard Support – a convention for AI agents to file support tickets](https://standardsupport.dev/)
+- [Show HN: Project-M – Local shared memory for AI coding agents](https://github.com/adityadebnath009/Project-M)
+- [Show HN: VI Engine – MCP-connected AI marketing workspace with approval gates](https://viengine.social)
+- [Show HN: Hallucination-as-a-service – API for AI excuses](https://haas.antoniorodriguez.no/hallucination)
+- [Show HN: Korean company registry for AI agents – free MCP server and CSV batch](https://comepass.xyz/?lang=en)
+- [Show HN: Prototype of a product management tool for AI agent companies](https://featurestream-prototype.vercel.app/)
+- [Show HN: Qpilot – an AI agent that runs plain-text manual test cases in Chrome](https://github.com/broxhq/qpilot)
+- [Show HN: R3 – Review AI agent artifacts locally](https://r3.hyperlogue.tech/)
 
 ## Hugging Face Blog
+- [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)
 - [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
 - [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
 - [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
@@ -18,20 +18,22 @@
 - [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
 - [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
-- [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
 
 ## GitHub Changelog
-- [GitHub Copilot weekly releases — November 9](https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9)
-- [GitHub Copilot models deprecated on November 16, 2026](https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026)
-- [Control where GitHub Copilot customizations come from](https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from)
-- [Upcoming deprecation of selected GitHub Copilot models in December](https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december)
-- [GitHub Enterprise Server support in the GitHub Copilot app](https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app)
+- [OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available](https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available)
+- [GitHub Copilot Fusion updates: more availability, benchmarks, and models](https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models)
+- [GitHub Copilot app, Microsoft Ignite releases](https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases)
+- [Copilot code review: Adaptive effort, secret detection, and more](https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more)
+- [MAI Code 2 and MAI Code 2 Flash in GitHub Copilot](https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot)
+- [GitHub Copilot in JetBrains, Ignite releases](https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases)
+- [Monitor GitHub Copilot activity through Microsoft Agent 365](https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365)
+- [GitHub Copilot CLI adds Microsoft Entra sign-in as a preview](https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview)
 
 ## GitHub Blog
+- [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/)
 - [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)
 - [Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/)
 - [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)
-- [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)
 
 ## Ars Technica
 - [Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI](https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/)
