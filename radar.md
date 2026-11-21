@@ -1,8 +1,14 @@
-# Radar Mini — 2026-11-20 14:52 UTC
+# Radar Mini — 2026-11-21 14:11 UTC
 
 ## Show HN (مشاريع جديدة)
-
-فشل الجلب: HTTP Error 502: Bad Gateway
+- [Show HN: Why HTTP 200 is lying to your AI agents (and what Postgres did)](https://github.com/deedglass/deedglass)
+- [Show HN: Agentest – 165 offline tests on an AI agent's OpenTelemetry traces](https://github.com/srpadmanabhuni/agentest)
+- [Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills](https://clawvet.vercel.app/)
+- [Show HN: RMRFBench – How often AI agents wreck a server when asked to rm a file](https://www.rmrfbench.com/)
+- [Show HN: Musset, open-source Scrivener alternative with an AI that never writes](https://github.com/Musset-App/musset)
+- [Show HN: Out of Policy – Break an AI agent's spending guard for $75 USDC](https://play.outbid.sh)
+- [Show HN: Full Production Studio, 77 open-source AI skills for video creators](https://github.com/alfaris/full-production-studio)
+- [Show HN: Sandscale – Firecracker microVMs for AI coding agents](https://sandscale.dev)
 
 ## Hugging Face Blog
 - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
@@ -15,10 +21,9 @@
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
 
 ## GitHub Changelog
+- [Security advisory permissions are now generally available](https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available)
+- [GitHub Enterprise Server 3.23 release candidate](https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate)
 - [Connect Supabase, Box, Calendly, and more to Copilot](https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot)
-- [Gemini 4 Neon in GitHub Copilot](https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot)
-- [Security risk assessments run automatically on GitHub Team](https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team)
-- [Customize GitHub Copilot for your team](https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team)
 
 ## GitHub Blog
 - [The best things in open source are built together](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/)
@@ -29,4 +34,3 @@
 
 ## Ars Technica
 - [Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI](https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/)
-- [PHP warns it plans to release 2 emergency patches imminently](https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/)
