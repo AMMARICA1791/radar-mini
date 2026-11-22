@@ -1,14 +1,8 @@
-# Radar Mini — 2026-11-21 14:11 UTC
+# Radar Mini — 2026-11-22 14:00 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Why HTTP 200 is lying to your AI agents (and what Postgres did)](https://github.com/deedglass/deedglass)
-- [Show HN: Agentest – 165 offline tests on an AI agent's OpenTelemetry traces](https://github.com/srpadmanabhuni/agentest)
-- [Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills](https://clawvet.vercel.app/)
-- [Show HN: RMRFBench – How often AI agents wreck a server when asked to rm a file](https://www.rmrfbench.com/)
-- [Show HN: Musset, open-source Scrivener alternative with an AI that never writes](https://github.com/Musset-App/musset)
-- [Show HN: Out of Policy – Break an AI agent's spending guard for $75 USDC](https://play.outbid.sh)
-- [Show HN: Full Production Studio, 77 open-source AI skills for video creators](https://github.com/alfaris/full-production-studio)
-- [Show HN: Sandscale – Firecracker microVMs for AI coding agents](https://sandscale.dev)
+
+فشل الجلب: <urlopen error timed out>
 
 ## Hugging Face Blog
 - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
