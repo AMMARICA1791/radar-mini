@@ -1,8 +1,14 @@
-# Radar Mini — 2026-11-22 14:00 UTC
+# Radar Mini — 2026-11-23 17:22 UTC
 
 ## Show HN (مشاريع جديدة)
-
-فشل الجلب: <urlopen error timed out>
+- [Show HN: I built an MCP server that gives AI agents a reliable clock](https://agentclock.andalabx.com/)
+- [Show HN: Verfy – checks an AI coding agent's tool calls before they run](https://github.com/verfy-dev/verfy)
+- [Show HN: Tilen – Scheduling API and MCP Server for AI Agents](https://www.tilen.cc)
+- [Show HN: MOPy Fish (1997) reverse engineered with AI agents to run in a browser](https://mopyfish.com/)
+- [Show HN: Apex verify – an independent model writes the checks your AI skipped](https://github.com/apex-engine-dev/apex-verify)
+- [Show HN: Crazy simple AI agent orchestration with Markdown and Containers](https://github.com/ameesme/shoebox)
+- [Show HN: Slipmark – make AI agents prove what they checked](https://github.com/founder-ship-it/Slipmark)
+- [Show HN: KradleBench – Multi-agent AI evals in Minecraft](https://www.kradle.ai?1)
 
 ## Hugging Face Blog
 - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
@@ -17,7 +23,6 @@
 ## GitHub Changelog
 - [Security advisory permissions are now generally available](https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available)
 - [GitHub Enterprise Server 3.23 release candidate](https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate)
-- [Connect Supabase, Box, Calendly, and more to Copilot](https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot)
 
 ## GitHub Blog
 - [The best things in open source are built together](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/)
