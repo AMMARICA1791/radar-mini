@@ -1,14 +1,14 @@
-# Radar Mini — 2026-11-23 17:22 UTC
+# Radar Mini — 2026-11-24 16:56 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: I built an MCP server that gives AI agents a reliable clock](https://agentclock.andalabx.com/)
-- [Show HN: Verfy – checks an AI coding agent's tool calls before they run](https://github.com/verfy-dev/verfy)
-- [Show HN: Tilen – Scheduling API and MCP Server for AI Agents](https://www.tilen.cc)
-- [Show HN: MOPy Fish (1997) reverse engineered with AI agents to run in a browser](https://mopyfish.com/)
-- [Show HN: Apex verify – an independent model writes the checks your AI skipped](https://github.com/apex-engine-dev/apex-verify)
-- [Show HN: Crazy simple AI agent orchestration with Markdown and Containers](https://github.com/ameesme/shoebox)
-- [Show HN: Slipmark – make AI agents prove what they checked](https://github.com/founder-ship-it/Slipmark)
-- [Show HN: KradleBench – Multi-agent AI evals in Minecraft](https://www.kradle.ai?1)
+- [Show HN: Agentbadge – Lighthouse for AI coding agents (0-100 readiness score)](https://github.com/Emreceyhnn/Agentbadge)
+- [Show HN: Daydream – AI video editor for your agents](https://www.daydreamvideo.com)
+- [Show HN: Ditching Markdown for an interactive AI Agent guide in pure HTML](https://qufei1993.github.io/ai-agent-guide/en/index.html)
+- [Show HN: Advent of AI Security 2026](https://advent-of-ai-security.com/)
+- [Show HN: Harny – AI coding agent for VSCodium/VS Code tuned for small/local LLMs](https://harny.dev/)
+- [Show HN: AI Agent Infrastructure and Memory Compaction Specifications](https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure)
+- [Show HN: Judge-audit – open-source calibration audits for AI judges](https://github.com/kunko-ai-labs/judge-audit)
+- [Show HN: Truce – a neutral mediator that AI agents can call to settle disputes](https://trucehq.com/agents)
 
 ## Hugging Face Blog
 - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
@@ -32,4 +32,5 @@
 - [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)
 
 ## Ars Technica
+- [Amazon says hackers' AI agents found and exploited 0-day with little human input](https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/)
 - [Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI](https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/)
