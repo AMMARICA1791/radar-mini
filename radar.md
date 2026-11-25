@@ -1,16 +1,17 @@
-# Radar Mini — 2026-11-24 16:56 UTC
+# Radar Mini — 2026-11-25 16:46 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Agentbadge – Lighthouse for AI coding agents (0-100 readiness score)](https://github.com/Emreceyhnn/Agentbadge)
-- [Show HN: Daydream – AI video editor for your agents](https://www.daydreamvideo.com)
-- [Show HN: Ditching Markdown for an interactive AI Agent guide in pure HTML](https://qufei1993.github.io/ai-agent-guide/en/index.html)
-- [Show HN: Advent of AI Security 2026](https://advent-of-ai-security.com/)
-- [Show HN: Harny – AI coding agent for VSCodium/VS Code tuned for small/local LLMs](https://harny.dev/)
-- [Show HN: AI Agent Infrastructure and Memory Compaction Specifications](https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure)
-- [Show HN: Judge-audit – open-source calibration audits for AI judges](https://github.com/kunko-ai-labs/judge-audit)
-- [Show HN: Truce – a neutral mediator that AI agents can call to settle disputes](https://trucehq.com/agents)
+- [Show HN: Animama – Open-source AI desktop companion with 3D avatars](https://github.com/raymond-van/animama)
+- [Show HN: Apargon – Open-Source Claude "Install as App" for Any AI](https://github.com/Orcaryn/Apargon)
+- [Show HN: See AI written Code in Git PRs and trace what your coding agents did](https://viewtower.ai/)
+- [Show HN: Avva – Compress your expertise available to AI agent via MCP](https://avva.chat/)
+- [Show HN: Agent Debugger – local-first failure debugger for AI agents](https://github.com/woxlo1/agent-debugger)
+- [Show HN: Open-source native AI harness that's trying to do less by default](https://github.com/usehm/hm)
+- [Show HN: Sightline – Windows CLI for AI agents to capture UI and map DPI coords](https://github.com/sao-coding/sightline)
+- [Show HN: GrowPython, an AI agent that runs outreach up to the booked call](https://growpython.com/)
 
 ## Hugging Face Blog
+- [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
 - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
 - [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)
 - [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
@@ -18,7 +19,6 @@
 - [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
 - [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
 - [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
-- [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
 
 ## GitHub Changelog
 - [Security advisory permissions are now generally available](https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available)
