@@ -1,26 +1,27 @@
-# Radar Mini — 2026-11-25 16:46 UTC
+# Radar Mini — 2026-11-26 16:22 UTC
 
 ## Show HN (مشاريع جديدة)
-- [Show HN: Animama – Open-source AI desktop companion with 3D avatars](https://github.com/raymond-van/animama)
-- [Show HN: Apargon – Open-Source Claude "Install as App" for Any AI](https://github.com/Orcaryn/Apargon)
-- [Show HN: See AI written Code in Git PRs and trace what your coding agents did](https://viewtower.ai/)
-- [Show HN: Avva – Compress your expertise available to AI agent via MCP](https://avva.chat/)
-- [Show HN: Agent Debugger – local-first failure debugger for AI agents](https://github.com/woxlo1/agent-debugger)
-- [Show HN: Open-source native AI harness that's trying to do less by default](https://github.com/usehm/hm)
-- [Show HN: Sightline – Windows CLI for AI agents to capture UI and map DPI coords](https://github.com/sao-coding/sightline)
-- [Show HN: GrowPython, an AI agent that runs outreach up to the booked call](https://growpython.com/)
+- [Show HN: Neui – Go web apps with a built-in AI agent](https://github.com/doors-dev/neui)
+- [Show HN: Clockwork – 2D game engine with an AI agent verified by Kane CLI](https://github.com/tope-olajide/clockwork)
+- [Show HN: Lockward – a lockfile for skills and MCP servers your AI agent loads](https://github.com/Breaktroughf1/lockward)
+- [Show HN: AI agents explore your mobile app, then their paths replay as tests](https://github.com/pierridotite/mobile-agent-testers)
+- [Show HN: Truce – a neutral mediator AI agents can call when they disagree](https://trucehq.com/agents)
+- [Show HN: Workbench for making CAD parts with Claude/AI coding agent](https://github.com/luisg0nc/torno)
+- [Show HN: Hush, the fastest computer use for AI agents](https://github.com/OgnjenAdzic28/hush)
+- [Show HN: Talira – Search engine for software, built for AI agents](https://talira.ai/)
 
 ## Hugging Face Blog
+- [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
+- [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)
+- [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
 - [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
 - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
 - [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)
-- [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
 - [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
 - [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
-- [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
-- [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
 
 ## GitHub Changelog
+- [Copilot code review billing will default to the organization](https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization)
 - [Security advisory permissions are now generally available](https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available)
 - [GitHub Enterprise Server 3.23 release candidate](https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate)
 
