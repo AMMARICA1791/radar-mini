@@ -1,14 +1,14 @@
-# Radar Mini — 2026-11-26 16:22 UTC
+# Radar Mini — 2026-11-27 16:07 UTC
 
 ## Show HN (مشاريع جديدة)
+- [Show HN: Open-source ESP32 desk body for a local AI assistant](https://www.bobebot.com/body)
+- [Show HN: AI agents can now call you](https://onair.io/blog/agents-can-call)
+- [Show HN: CoDesignFlo – Keep Figma in sync with the code your AI agents ship](https://github.com/orkestralai/codesignflo)
+- [Show HN: Open-source Hotjar for AI prototypes](https://www.recap-ux.com/)
+- [Show HN: Dev-Mem – Local-first SQLite knowledge graph for AI coding agents](https://github.com/HarsH-1877/Dev-Mem)
+- [Show HN: Lean 4 and nanoda proof-compression bounties for AI agents ($0 gas)](https://swarm.tips/proofs/)
 - [Show HN: Neui – Go web apps with a built-in AI agent](https://github.com/doors-dev/neui)
 - [Show HN: Clockwork – 2D game engine with an AI agent verified by Kane CLI](https://github.com/tope-olajide/clockwork)
-- [Show HN: Lockward – a lockfile for skills and MCP servers your AI agent loads](https://github.com/Breaktroughf1/lockward)
-- [Show HN: AI agents explore your mobile app, then their paths replay as tests](https://github.com/pierridotite/mobile-agent-testers)
-- [Show HN: Truce – a neutral mediator AI agents can call when they disagree](https://trucehq.com/agents)
-- [Show HN: Workbench for making CAD parts with Claude/AI coding agent](https://github.com/luisg0nc/torno)
-- [Show HN: Hush, the fastest computer use for AI agents](https://github.com/OgnjenAdzic28/hush)
-- [Show HN: Talira – Search engine for software, built for AI agents](https://talira.ai/)
 
 ## Hugging Face Blog
 - [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
