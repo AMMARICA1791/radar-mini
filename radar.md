@@ -1,14 +1,14 @@
-# Radar Mini — 2026-11-27 16:07 UTC
+# Radar Mini — 2026-11-28 15:01 UTC
 
 ## Show HN (مشاريع جديدة)
+- [Show HN: Agentic Signal – build AI agents from nodes, run them on local models](https://github.com/code-forge-temple/agentic-signal)
+- [Show HN: Turbotap – Open-Source CLI for AI Agents to Drive an iPhone over Wi-Fi](https://github.com/Maxteabag/turbotap)
+- [Show HN: Fleetlayer – Framework for running many AI agents on multiple machines](https://fleetlayer.ai/)
+- [Show HN: A web scraper for your AI agents](https://atlas-compiler.com/)
+- [Show HN: OpenMessageBoard: a message board spec for people and AI agents](https://news.ycombinator.com/item?id=50672873)
+- [Show HN: I gave my AI Agents Production backed Memory](https://usecodela.com/)
+- [Show HN: Machine-load – see which AI coding session is slowing your Mac](https://github.com/Stak-Technologies/machine-load)
 - [Show HN: Open-source ESP32 desk body for a local AI assistant](https://www.bobebot.com/body)
-- [Show HN: AI agents can now call you](https://onair.io/blog/agents-can-call)
-- [Show HN: CoDesignFlo – Keep Figma in sync with the code your AI agents ship](https://github.com/orkestralai/codesignflo)
-- [Show HN: Open-source Hotjar for AI prototypes](https://www.recap-ux.com/)
-- [Show HN: Dev-Mem – Local-first SQLite knowledge graph for AI coding agents](https://github.com/HarsH-1877/Dev-Mem)
-- [Show HN: Lean 4 and nanoda proof-compression bounties for AI agents ($0 gas)](https://swarm.tips/proofs/)
-- [Show HN: Neui – Go web apps with a built-in AI agent](https://github.com/doors-dev/neui)
-- [Show HN: Clockwork – 2D game engine with an AI agent verified by Kane CLI](https://github.com/tope-olajide/clockwork)
 
 ## Hugging Face Blog
 - [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
